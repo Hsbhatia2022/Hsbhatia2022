@@ -1,5 +1,5 @@
 ## Hi there, I'm Harpreet Singh Bhatia 👋
-A Consistent learner who belives in hard work.
+A Consistent learner who believe in hard work.
 
 
 <!-- <img src='https://github-readme-stats.vercel.app/api?username=Hsbhatia2022&show_icons=true&theme=tokyonight&count_private=true&line_height=40'  align="left" />
