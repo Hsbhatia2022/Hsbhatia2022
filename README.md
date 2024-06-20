@@ -17,4 +17,4 @@ A Consistent learner who believe in hard work.
 
 
 
-<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
+<h3 align="center"> Peace and unity!</h3>
