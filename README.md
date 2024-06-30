@@ -8,9 +8,7 @@ A Consistent learner who believe in hard work.
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Hsbhatia2022" alt="Hsbhatia2022" /></a> </p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Hsbhatia2022" /></p>
-
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Hsbhatia2022&theme=gruvbox&border_radius=4.4&date_format=j%20M%5B%20Y%5D" /></p>
  
 
 ![Visitor Count](https://profile-counter.glitch.me/Hsbhatia2022/count.svg)
